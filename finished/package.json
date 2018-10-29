@@ -1,0 +1,24 @@
+{
+  "name": "js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mohammad-hammal@bitbucket.org/mohammad-hammal/js-article-exmples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mohammad-hammal/js-article-exmples#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
